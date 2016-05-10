@@ -1,0 +1,28 @@
+name: vic
+favicon: null
+layout_spectrum: 0.6287548143882304
+typography_spectrum: 0.48776710662059486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5299723136704415
+  lightness: 0.46194827603176236
+  saturation: 0.006587336538359523
+  rhythmicContrast: 0.7020817764569074
+purpose: []
